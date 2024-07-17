@@ -1,5 +1,7 @@
 `## 3-Body Problem ##`
 
+[<img src="demos/vid.gif" alt="view demo" width="100%"/>](demos/vid.mp4)
+
 This one simulates the socalled three body problem,
 which describes the unpredictability (due to chaos) of
 newtons laws being applied to three bodies, which are strongly
@@ -39,5 +41,5 @@ can find a copy in the LICENSE file.
 
 ----
 
-(c) 2024 Lucas Birkert - All Rights Reserved
+&copy; 2024 Lucas Birkert - All Rights Reserved
 
